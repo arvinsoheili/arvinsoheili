@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi👋, i'm Arvin, a tech lover⚙️.
+
+<!-- ### My skills -->
+
 
 <!--
 **arvinsoheili/arvinsoheili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
