@@ -26,8 +26,6 @@ experienced in php development for more than1.5 years with a focus on laravel fr
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/arvinsoheili"><img src="https://github-readme-stats.vercel.app/api?username=arvinsoheili&show_icons=true&hide=stars,issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="arvinsoheili's GitHub stats" /></a>
-
 <a href="http://www.github.com/arvinsoheili"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arvinsoheili&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/arvinsoheili" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvinsoheili&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
