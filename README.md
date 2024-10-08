@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-experienced in php development for more than1.5 years with a focus on laravel framework. skilled in mysql, css, html, js & wordpress. demonstrated experience in designing and developing efficient, reliable software systems. keeping up to date with industry trends.
+experienced in php development from 2022 with a focus on laravel framework. skilled in mysql, css, html, js, JSON. demonstrated experience in designing and developing efficient, reliable software systems. keeping up to date with industry trends.
 
 * 🌍  I'm based in Tehran, Iran
 * 🖥️  See my portfolio at [arvinSoheili](http://arvinsoheili.com)
